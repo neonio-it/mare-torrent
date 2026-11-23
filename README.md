@@ -2,6 +2,8 @@
 
 Cliente de torrent leve para Windows, todo em Rust e open source.
 
+Mantido por **Jhonatan Vicentini** ([@JhonatanVicentini](https://github.com/JhonatanVicentini)).
+
 - Motor: [`librqbit`](https://crates.io/crates/librqbit) (DHT, magnet, retomada, escolha de arquivos)
 - Janela: [`egui`/`eframe`](https://crates.io/crates/eframe) com OpenGL (`glow`)
 - Um único `Mare.exe` (~17 MB), sem instalador e sem runtime
@@ -77,6 +79,7 @@ de forma portátil, num pendrive).
 | `src/util.rs` | Formatação de tamanhos, velocidades e tempos |
 | `scripts/compilar-e-assinar.ps1` | Compila e assina o executável |
 
-## Licença
+## Licença e autoria
 
-[MIT](LICENSE).
+[MIT](LICENSE). Projeto criado e mantido por Jhonatan Vicentini
+([@JhonatanVicentini](https://github.com/JhonatanVicentini)).
