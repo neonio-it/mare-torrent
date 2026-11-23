@@ -1,0 +1,20 @@
+# Compilação
+/target/
+/dist/
+
+# Configuração local do Cargo (pode ter caminhos da sua máquina)
+/.cargo/config.toml
+
+# Certificados e chaves: nunca vão para o repositório
+*.pfx
+*.p12
+*.cer
+*.pvk
+*.key
+
+# Primeira versão em Python (fica só na máquina)
+/prototipo-python/
+
+# Sistema
+Thumbs.db
+desktop.ini
