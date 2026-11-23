@@ -15,9 +15,9 @@ A Certum é uma delas e vende um certificado barato para projetos open source.
 - **O projeto precisa ser público e não comercial.** Se a Certum achar que o certificado
   assina software vendido, ela revoga.
 - **A Certum precisa ver a sua ligação com o projeto** pelas informações públicas. O
-  repositório fica na organização `neonio-it`; vale deixar claro no README (ou no seu
-  perfil do GitHub) que você mantém o Maré. Se a Certum não conseguir identificar o
-  projeto, ela não emite.
+  repositório fica na organização `neonio-it`, e o README diz que você mantém o Maré.
+  Use no pedido o mesmo nome que está no README e no seu documento. Se a Certum não
+  conseguir identificar o projeto, ela não emite.
 - **Documentos:** documento de identidade e um comprovante de endereço em seu nome (conta
   de consumo). Confira a lista atual em
   [Code Signing – required documents](https://support.certum.eu/en/code-signing-required-documents/).
